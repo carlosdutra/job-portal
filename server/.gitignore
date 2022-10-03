@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+server/index.js
+.env
+.env.dev
